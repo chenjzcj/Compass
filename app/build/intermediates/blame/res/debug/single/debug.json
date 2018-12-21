@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\ASSpace\\Compass\\app\\build\\intermediates\\res\\merged\\debug\\drawable_panel.png.flat",
+        "source": "E:\\ASSpace\\Compass\\app\\src\\main\\res\\drawable\\panel.png"
+    },
+    {
+        "merged": "E:\\ASSpace\\Compass\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\ASSpace\\Compass\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\ASSpace\\Compass\\app\\build\\intermediates\\res\\merged\\debug\\drawable_compass_degree.png.flat",
+        "source": "E:\\ASSpace\\Compass\\app\\src\\main\\res\\drawable\\compass_degree.png"
+    },
+    {
+        "merged": "E:\\ASSpace\\Compass\\app\\build\\intermediates\\res\\merged\\debug\\drawable_needle.png.flat",
+        "source": "E:\\ASSpace\\Compass\\app\\src\\main\\res\\drawable\\needle.png"
+    }
+]

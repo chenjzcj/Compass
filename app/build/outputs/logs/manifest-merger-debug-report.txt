@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:7:5-18:19
+	android:label
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:8:9-38
+activity#com.compass.Compass
+ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:10:9-17:20
+	android:label
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:11:13-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+		ADDED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASSpace\Compass\app\src\main\AndroidManifest.xml
